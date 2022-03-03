@@ -1,0 +1,25 @@
+{
+  "level": "Both",
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "mb-course-rc-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "mb-course-rc-2"
+  },
+  "course_title": "MB Course RC 2a",
+  "course_description": "MB Course RC 2 description",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.mbrc2",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "mb-course-rc-2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "37d5ac7d-8212-4858-aeac-c1529ebb53be"
+}
